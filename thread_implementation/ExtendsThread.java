@@ -1,3 +1,5 @@
+package thread_implementation;
+
 class ExtendsThread{
     public static void main(String[] args){
         Thread t1=new Thread1();
